@@ -1,7 +1,7 @@
 # 🔐 EVM Ownership Primitives: Immutable Identity
 
 ![Solidity](https://img.shields.io/badge/Solidity-0.8.24-363636?style=flat-square&logo=solidity)
-![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
+![License](https://img.shields.io/badge/License-LGPL_3.0-blue?style=flat-square)
 
 A reference implementation of **Immutable Access Control** patterns on the Ethereum Virtual Machine.
 
